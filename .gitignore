@@ -28,3 +28,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Text Adventure/Library/ScriptMapper
+Text Adventure/Library/assetDatabase3
