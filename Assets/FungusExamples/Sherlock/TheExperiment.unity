@@ -3471,7 +3471,7 @@ MonoBehaviour:
   scrollPos: {x: 2985.3325, y: 1207.838}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 251
+  blockViewHeight: 200
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -3479,8 +3479,9 @@ MonoBehaviour:
     y: -1729.3505
     width: 5969.446
     height: 2818.8503
-  selectedBlock: {fileID: 0}
-  selectedCommands: []
+  selectedBlock: {fileID: 1390555298}
+  selectedCommands:
+  - {fileID: 1390555342}
   variables:
   - {fileID: 1390555396}
   description: 'Example scene from Sherlock: The Game Is On'
@@ -4435,7 +4436,8 @@ MonoBehaviour:
   itemId: 8
   errorMessage: 
   indentLevel: 0
-  storyText: '{answer}{flash=0.1}Well you arrived at just the right time.'
+  storyText: '{answer}{flash=0.1}Well, I''m just glad there is ACTION,  WRITING, even
+    if it is insipid, uninspired, and just plain awkward.'
   description: 
   character: {fileID: 137130844}
   portrait: {fileID: 0}
@@ -4462,7 +4464,8 @@ MonoBehaviour:
   itemId: 7
   errorMessage: 
   indentLevel: 0
-  storyText: '{confused}I do live here, you know.'
+  storyText: '{confused}Even if you can''t, at least you could go for originality
+    in whatever is being created.'
   description: 
   character: {fileID: 1880195408}
   portrait: {fileID: 0}
@@ -4517,7 +4520,8 @@ MonoBehaviour:
   itemId: 6
   errorMessage: 
   indentLevel: 0
-  storyText: PUOP
+  storyText: Fourth time in regards to trying to modify this text box - can you not
+    modify it while the example or paused is running?
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -5393,7 +5397,7 @@ MonoBehaviour:
   itemId: 58
   errorMessage: 
   indentLevel: 0
-  storyText: Ah John, {pleased}there you are.
+  storyText: Ah, {pleased}apparently you cannot.
   description: 
   character: {fileID: 137130844}
   portrait: {fileID: 0}
